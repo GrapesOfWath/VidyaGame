@@ -1,0 +1,14 @@
+c:\users\barbara\documents\visual studio 2012\Projects\VidyaGame\bin\Debug\VidyaGame.exe.config
+C:\Users\Barbara\Documents\Visual Studio 2012\Projects\VidyaGame\bin\Debug\VidyaGame.exe
+C:\Users\Barbara\Documents\Visual Studio 2012\Projects\VidyaGame\bin\Debug\VidyaGame.pdb
+C:\Users\Barbara\Documents\Visual Studio 2012\Projects\VidyaGame\bin\Debug\VidyaGame.xml
+C:\Users\Barbara\Documents\Visual Studio 2012\Projects\VidyaGame\obj\Debug\VidyaGame.BattleScreen.resources
+C:\Users\Barbara\Documents\Visual Studio 2012\Projects\VidyaGame\obj\Debug\VidyaGame.Form1.resources
+C:\Users\Barbara\Documents\Visual Studio 2012\Projects\VidyaGame\obj\Debug\VidyaGame.Form2.resources
+C:\Users\Barbara\Documents\Visual Studio 2012\Projects\VidyaGame\obj\Debug\VidyaGame.Form3.resources
+C:\Users\Barbara\Documents\Visual Studio 2012\Projects\VidyaGame\obj\Debug\VidyaGame.Resources.resources
+C:\Users\Barbara\Documents\Visual Studio 2012\Projects\VidyaGame\obj\Debug\VidyaGame.TestingMenu.resources
+C:\Users\Barbara\Documents\Visual Studio 2012\Projects\VidyaGame\obj\Debug\VidyaGame.vbproj.GenerateResource.Cache
+C:\Users\Barbara\Documents\Visual Studio 2012\Projects\VidyaGame\obj\Debug\VidyaGame.exe
+C:\Users\Barbara\Documents\Visual Studio 2012\Projects\VidyaGame\obj\Debug\VidyaGame.xml
+C:\Users\Barbara\Documents\Visual Studio 2012\Projects\VidyaGame\obj\Debug\VidyaGame.pdb

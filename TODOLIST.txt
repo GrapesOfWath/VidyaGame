@@ -1,0 +1,23 @@
+﻿TO DO:
+>Handle enemies more efficiently and dynamically create picturebox and progressbar for each enemy
+>Find out a way to handle the OnDeath event (probably get rid of the enemies array and do something else, but not sure what)
+>Prooooooooooobably should get better damage & healing formulas
+>Multi-unit player party (definitely need)
+>Store player data more efficiently
+>Work on the archer profession
+>Item class
+>Spell class
+>Develop items
+>Implement items
+>Develop Spells
+>Replace spell buttons with dynamically created buttons for each spell the player owns
+>Develop equipment
+>Implement equipment
+>Player/profession specific special moves?
+>Summoning system?
+>Develop map system
+>Implement map system
+>Profession upgrades?
+>NPC system
+>Loot system
+>Inventory system
